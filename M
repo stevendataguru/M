@@ -1,0 +1,326 @@
+
+Introduction
+"Half the money I spend on advertising is wasted; the trouble is I don't know which half."
+
+John Wanamaker, a marketing pioneer in late 1990s and early 20th century,is reputed to have made this statement and advertisers have been wrestling with the problem ever since.
+
+In early days,many companies found it difficult to quantify the impact of various advertising channels such as newspapers,television,radio etc on their products. Though there were certain methods adopted by these companies as a solution to the problem,those methods consisted more of naive approaches rather than sophisticated and reliable techniques. In late 1990s, things started to change and the art of marketing measurements became more matured due to the influence of econometric groups with advertising agencies finding better ways to gain insights from the complex array of marketing measurements which came to be known as Marketing Mix Modelling.
+
+What is MMM?
+Marketing Mix Modelling encompasses the method of statistical analysis such as regression on sales and marketing data to estimate the impact of various marketing tactics on sales and then predict the impact of future sets of tactics. It is also used to optimize the advertising mix and promotional tactics with respect to sales revenue or profit. Today, most brands and companies have embraced and are embracing these advanced measurement methodologies to determine the true impact of all interactions across all devices, channels, and campaign tactics. 
+Nowadays,most companies have a strong econometric modelling foundation with slightly varying strategies depending on their requirements,products,external competition etc.
+
+Breaking the phrase "Market Mix Modelling"
+On breaking the phrase,we get three words i.e Marketing,Mix and Modelling.Let's explore these terms.
+
+Marketing : This term corresponds to the understanding the market.
+Mix : Mix here refers to how much importance should each P be given in the 4 P(Product,price,place and promotion)
+Modelling : Modelling here refers to the optimization and building the model.
+Designing the right Marketing Mix:
+The most creative & challenging step in marketing is designing the right marketing mix. The marketing mix is specific collection of actions & associated instruments employed by an organisation to stimulate acceptance of its ideas,products & services.
+
+Final Offer to the Customer:
+The final offer made to the customer or consumer is dependent on the marketing manager of the firm where the following four steps are followed.
+
+The firm (or the marketing manager chooses the product to meet the market demands.
+The right distribution channel is used to make the product available.
+An eye catching promotion is offered to the customer for the products.
+Besides promotion,appropriate price is fixed agreed by the firm and customer.
+The 4 P
+A prominent marketer by name E.Jerome McCarthy proposed a four P classification in the year 1960,that has been widely used till date. The four Ps can be related to the customer as follows.
+
+Product = Customer (or Consumer): The first marketing-mix element is the product, which refers to the offering or group of offerings to customers. Products can be physical or virtual. In the case of a physical product, such as a bike, a company will gather information about the desired features and benefits required by a target market. Before building the product, the marketer's role is to communicate customer requirements to the engineers who design the product. This is in contrast to past practice, when engineers designed a product based on their own preferences, or expertise and the marketers had to find suitable customers to buy this product. Contemporary thinking calls for products to be designed based on customer requirements but not solely on engineers' ideas. In contemporary industrialized societies, products go through life cycles: birth, growth, maturity, and decline or upgradation. This constant replacement of existing products with new or upgraded products has significant consequences for professional marketers. The development of new products involves all aspects of a business—production, finance, research and development, and even personnel administration and public relations. Nowadays, some of the products are the recycled version of the same product sold in the market. This also has an impact on the brand where the resources are reused for environmental purposes. Products are virtual in nature are the remote services offered by the company. For example, services offered by means of an API. Amazon Web Services offers virtualization service through it's cloud APIs.
+Price : The second marketing-mix element is price. Ordinarily companies determine a price by gauging the competence level of the offer and then selecting a price that reflects how the market values its level of quality. However, marketers also are aware that price can send a message to a customer about the brand's reputation and product's presumed quality level. A BMW vehicle is generally considered to be a high-quality automobile. Therefore,BMW can command a high price in the market place. But, even if the brand could price its cars competitively with economy cars, it might not do so, knowing that the lower price might communicate lower quality. On the other hand, in order to gain market share, some companies have moved to “more for the same” or “the same for less” or "cheap and best" pricing, which means offering prices that are consistently lower than those of their competitors. This kind of discount pricing has caused firms in such industries as airlines and pharmaceuticals (which used to charge a price premium based on their past brand strength and reputation) to significantly reevaluate their marketing strategies.
+Place : Place, or where the product is made available, is the third element of the marketing mix and is most commonly referred to as distribution. When a product moves along its path from producer to consumer, it is said to be following a channel of distribution. For example, the channel of distribution for many food products includes food-processing plants, warehouses, wholesalers, and supermarkets. By using this channel, a food manufacturer makes its products easily accessible by ensuring that they are in stores that are frequented by those in the target market. In another example, a mutual funds organization makes its investment products available by enlisting the assistance of brokerage houses and banks, which in turn establish relationships with particular customers. However, each channel participant can handle only a certain number of products: space at supermarkets is limited, and investment brokers can keep abreast of only a limited number of mutual funds. Because of this, some marketers may decide to skip steps in the channel and instead market directly to buyers through direct mail, telemarketing, door-to-door selling, shopping via television (a growing trend in the late 20th century), or factory outlets.
+Promotion : Promotion, the fourth marketing-mix element, consists of several methods of communicating with and influencing customers. The major tools are sales force, advertising, sales promotion, and public relations.
+Sales force
+
+Sales representatives are the most expensive means of promotion, because they require income, expenses, and supplementary benefits. Their ability to personalize the promotion process makes sales people most effective at selling complex goods, big-ticket items, and highly personal goods—forexample, those related to religion or insurance. Salespeople are trained to make presentations, answer objections, gain commitments to purchase, and manage account growth. Some companies have successfully reduced their sales-force costs by replacing certain functions (for example, finding new customers) with less expensive methods (such as direct mail and telemarketing).
+
+Advertising
+
+Advertising includes all forms of paid, non personal communication and promotion of products, services, or ideas by a specified sponsor. Advertising appears in such media as print (newspapers, magazines, billboards, flyers) or broadcast (radio, television). Print advertisements typically consist of a picture, a headline, information about the product, and occasionally a response coupon. Broadcast advertisements consist of an audio or video narrative that can range from short 15-second spots to longer segments known as infomercials, which generally last 30or 60 minutes.
+
+Sales promotion
+
+While advertising presents a reason to buy a product, sales promotion offers a short-term incentive to purchase. Sales promotions often attract brand switchers (those who are not loyal to a specific brand) who are looking primarily for low price and good value. Thus, especially in markets where brands are highly similar, sales promotions can cause a short-term increase in sales but little permanent gain in market share. Alternatively, in markets where brands are quite dissimilar, sales promotions can alter market shares more permanently. The use of promotions has risen considerably during the late 20th century. This is due to a number of factors within companies, including an increased sophistication in sales promotion techniques and greater pressure to increase sales. Several market factors also have fostered this increase, including a rise in the number of brands (especially similar ones) and a decrease in the efficiency of traditional advertising due to increasingly fractionated consumer markets.
+
+Public relations
+
+Public relations in contrast to advertising and sales promotion, generally involves less commercialized modes of communication. Its primary purpose is to disseminate information and opinion to groups and individuals who have an actual or potential impact on a company's ability to achieve its objectives. In addition, public relations specialists are responsible for monitoring these individuals and groups and for maintaining good relationships with them. One of their key activities is to work with news and information media to ensure appropriate coverage of the company's activities and products. Public relations specialists create publicity by arranging press conferences, contests, meetings, and other events that will draw attention to a company's products or services. Another public relations responsibility is crisis management—that is, handling situations in which public awareness of a particular issue may dramatically and negatively impact the company's ability to achieve its goals. For example, when it was discovered that some bottles of Perrier sparkling water might have been tainted by a harmful chemical, Source Perrier, SA's public relations team had to ensure that the general consuming public did not thereafter automatically associate Perrier with tainted water. Other public relations activities include lobbying, advising management about public issues, and planning community events.
+
+Extension to 4 P:
+There have been attempts to develop 'extended marketing mix' to better accomodate specific aspects of marketing mix.Booms and Bitner included three additional 'Ps' to accommodatetrends towards a service or knowledge based economy.They are
+
+People
+All people who directly or indirectly influence the perceived value of the product or service, including knowledge workers,employees, management and consumers.
+
+Process
+Procedures, mechanisms and flow of activities whichlead to an exchange of value.
+
+Physical Evidence
+The direct sensory experience of a product or service that allows a customer to measure whether he or she has received value. Examples might include the way a customer is treated by a staff member, or the length of time a customer has to wait, or the environment in which a product or service is delivered.
+
+Note:
+The term 'marketing mix' however, does not imply that the 4P elements represent options.
+They are not trade-offs but are fundamental marketing issues that always need to be addressed.
+They are the fundamental actions that marketing requires whether determined explicitly or by default.
+Optimizing the marketing mix:
+By offering the product with combination of 4 P's,the product's popularity and the sales revenue of the company selling that product will gradually increase. There are 2 optimizations that can be implemented.
+
+Strategic Optimization : This comes into picture when there are large changes made to the weightage given to a particular P or a group of P's. For example,a large change in price from Rs.500 to Rs.1000 might have a profound effect on the sales revenue.Such kind of changes falls under this category.
+Tactical Optimization : This comes into picture when there is small changes made to the weightage given to a particular P or a group of P's. For example,considering the above example for Strategic Optimization,if the Price changes from Rs.500 to Rs.499,then these kinds of changes fall under Tachtical Optimization.
+Strengths and Weakness of MMM:
+Though we consider market mix modelling as one of the sophisticated methods, it does have it's own strengths and weakness. Let's explore it.
+
+Strengths:
+A successfully implemented marketing mix model can provide the following benefits:
+
+It reflects on the past marketing decisions taken, by calculating return on investment (ROI).
+It helps to optimize the marketing mix for companies by forecasting the likely impact of changes to various marketing mix variables.
+It helps in finding the changes in business performance by isolating the impact of internal and external factors.
+Weakness:
+The focus on short-term sales can significantly under-value the importance of longer-term equity building activities
+MMM used for media mix optimization, has a bias in favor of time-dependent media (such as Television) versus less time-dependent media (such as ads appearing in monthly magazines); biases can also occur when comparing broad-based media versus demographically targeted media.
+Working of MMM
+Let's understand the working of MMM with an example. Basically, MMM's are analysed and implemented with statiscal learning algorithms such as regression.
+
+Many regression types are used in MMM for better accuracy and performance. Some of them are linear regression, multivariate regression etc.
+
+Data set we will be working on for learning MMM is the data set used in the book 'Cutting-Edge Marketing Analytics: Real World Cases and Data Sets for Hands On Learning'. The data set is available to download from www.dmanalytics.org.
+
+In [9]:
+import pandas as pd
+import numpy as np
+import matplotlib.patches as mpatches
+import matplotlib.pyplot as plt
+
+%matplotlib inline
+In [2]:
+data = pd.read_excel('MMM.xlsx')
+In [3]:
+# Let's preview the data
+print data.describe()
+print data.columns
+         Brand ID         Year     Absolut  Aristocrat      Barton  \
+count  263.000000   263.000000  263.000000  263.000000  263.000000   
+mean    12.596958  2001.695817    0.049430    0.049430    0.049430   
+std      7.654584     3.639093    0.217177    0.217177    0.217177   
+min      1.000000  1995.000000    0.000000    0.000000    0.000000   
+25%      6.000000  1999.000000    0.000000    0.000000    0.000000   
+50%     12.000000  2002.000000    0.000000    0.000000    0.000000   
+75%     18.000000  2005.000000    0.000000    0.000000    0.000000   
+max     31.000000  2007.000000    1.000000    1.000000    1.000000   
+
+        Belvedere     Burnett      Chopin  Crystal Palac   Finlandia  \
+count  263.000000  263.000000  263.000000     263.000000  263.000000   
+mean     0.026616    0.041825    0.026616       0.049430    0.049430   
+std      0.161265    0.200571    0.161265       0.217177    0.217177   
+min      0.000000    0.000000    0.000000       0.000000    0.000000   
+25%      0.000000    0.000000    0.000000       0.000000    0.000000   
+50%      0.000000    0.000000    0.000000       0.000000    0.000000   
+75%      0.000000    0.000000    0.000000       0.000000    0.000000   
+max      1.000000    1.000000    1.000000       1.000000    1.000000   
+
+           ...       LagTotalMinusSales     TierSales  OutsideTierSales  \
+count      ...               263.000000    263.000000        263.000000   
+mean       ...             62673.935361   9547.235741      53106.615970   
+std        ...              1548.346560   2917.310122       2259.775837   
+min        ...             55687.000000    846.000000      48358.000000   
+25%        ...             62459.000000   8151.500000      51863.000000   
+50%        ...             63204.000000  10605.000000      52335.000000   
+75%        ...             63616.000000  11209.000000      54570.000000   
+max        ...             64131.000000  15790.000000      59760.000000   
+
+       LagTierSales  LagOutsideTierSales  Firstintro  Marketshare  \
+count    263.000000           263.000000  263.000000   263.000000   
+mean    9215.528517         53458.406844    0.015209     0.046972   
+std     2946.563257          2327.430916    0.122617     0.053831   
+min      697.000000         49806.000000    0.000000     0.001468   
+25%     7493.000000         51947.000000    0.000000     0.014762   
+50%    10400.000000         52419.000000    0.000000     0.029463   
+75%    11127.500000         55392.000000    0.000000     0.053087   
+max    14299.000000         59868.000000    1.000000     0.270477   
+
+       LagMktshare      YearID      total ad  
+count   263.000000  263.000000    263.000000  
+mean      0.047470    9.695817   7386.359312  
+std       0.054685    3.639093  14280.852135  
+min       0.000971    3.000000      6.000000  
+25%       0.014655    7.000000      6.000000  
+50%       0.029181   10.000000      6.000000  
+75%       0.053633   13.000000   9691.400000  
+max       0.270477   15.000000  70489.200000  
+
+[8 rows x 66 columns]
+Index([u'BrandName', u'Brand ID', u'Year', u'Absolut', u'Aristocrat',
+       u'Barton', u'Belvedere', u'Burnett', u'Chopin', u'Crystal Palac',
+       u'Finlandia', u'Fleischmann's', u'Fris', u'Gilbey's', u'Gordon's',
+       u'Grey Goose', u'Kamchatka', u'Ketel One', u'Level', u'McCormick',
+       u'Polar Ice', u'Popov', u'Pravda', u'Seagram's', u'Skol', u'Sky',
+       u'Smirnoff', u'Stolicnaya', u'Tanqueray', u'Three Olives',
+       u'TotalSales', u'LagTotalSales', u'2LagTotalSales', u'LnSales',
+       u'LnLSales', u'Ln2Lsales', u'LnDiff', u'diff', u'IfDom', u'DollarSales',
+       u'PriceRerUnit', u'LagPrice', u'LnPrice', u'LnLPrice', u'Mag', u'News',
+       u'Outdoor', u'Broad', u'Print', u'LnMag', u'LnNews', u'LnOut',
+       u'LnBroad', u'LnPrint', u'Tier1', u'Tier2', u'TotalMinusSales',
+       u'LagTotalMinusSales', u'TierSales', u'OutsideTierSales',
+       u'LagTierSales', u'LagOutsideTierSales', u'Firstintro', u'Marketshare',
+       u'LagMktshare', u'YearID', u'total ad'],
+      dtype='object')
+We can infer that there are a lot of columns consisting of sales ,different modes of advertising and some other variables that are not presently of our interest.
+
+In [4]:
+print data['BrandName'].unique()
+print '\n'
+print 'Total Number of brands',len(data['BrandName'].unique())
+[u'Absolut' u'Aristocrat' u'Barton' u'Belvedere' u'Burnett' u'Chopin'
+ u'Crystal Palac' u'Finlandia' u"Fleischmann's" u'Fris' u"Gilbey's"
+ u"Gordon's" u'Grey Goose' u'Kamchatka' u'Ketel One' u'Level' u'McCormick'
+ u'Polar Ice' u'Popov' u'Pravda' u"Seagram's" u'Skol' u'Sky' u'Smirnoff'
+ u'Stolicnaya' u'Tanqueray' u'Three Olives']
+
+
+Total Number of brands 27
+This data set includes a total of 27 brands of vodka manufacturing companies. For MMM, let's choose a brand and analyse the impact of Price on sales. For instance, let's choose 'Absolut' as the brand for our analysis.
+
+In [5]:
+Absolut = data[data['BrandName'] == 'Absolut']
+Absolut
+Out[5]:
+BrandName	Brand ID	Year	Absolut	Aristocrat	Barton	Belvedere	Burnett	Chopin	Crystal Palac	...	LagTotalMinusSales	TierSales	OutsideTierSales	LagTierSales	LagOutsideTierSales	Firstintro	Marketshare	LagMktshare	YearID	total ad
+0	Absolut	15	1995	1	0	0	0	0	0	0	...	60903	1080	59760	1035	59868	0	0.133923	0.124241	3	52343.9
+1	Absolut	15	1996	1	0	0	0	0	0	0	...	60840	1255	59277	1080	59760	0	0.142007	0.133923	4	52297.2
+2	Absolut	15	1997	1	0	0	0	0	0	0	...	60532	1532	58932	1255	59277	0	0.146758	0.142007	5	54947.9
+3	Absolut	15	1998	1	0	0	0	0	0	0	...	60464	1730	58576	1532	58932	0	0.146106	0.146758	6	57432.7
+4	Absolut	15	1999	1	0	0	0	0	0	0	...	60306	2118	57800	1730	58576	0	0.161284	0.146106	7	63213.9
+5	Absolut	15	2000	1	0	0	0	0	0	0	...	59918	2549	56846	2118	57800	0	0.173368	0.161284	8	70489.2
+6	Absolut	15	2001	1	0	0	0	0	0	0	...	59395	3358	56295	2549	56846	0	0.157546	0.173368	9	59715.4
+7	Absolut	15	2002	1	0	0	0	0	0	0	...	59653	4197	55392	3358	56295	0	0.150425	0.157546	10	62148.3
+8	Absolut	15	2003	1	0	0	0	0	0	0	...	59589	4939	54669	4197	55392	0	0.139245	0.150425	11	63602.1
+9	Absolut	15	2004	1	0	0	0	0	0	0	...	59608	5582	53906	4939	54669	0	0.134353	0.139245	12	66816.3
+10	Absolut	15	2005	1	0	0	0	0	0	0	...	59488	6346	53178	5582	53906	0	0.127440	0.134353	13	29879.0
+11	Absolut	15	2006	1	0	0	0	0	0	0	...	59524	7251	52094	6346	53178	0	0.124400	0.127440	14	41147.4
+12	Absolut	15	2007	1	0	0	0	0	0	0	...	59345	8119	51092	7251	52094	0	0.120603	0.124400	15	40280.5
+13 rows × 67 columns
+
+There are a lot of columns not of our interest. Let's filter them out.
+
+In [100]:
+Pr_Absolut = Absolut[['LnSales','LnPrice']]
+In [101]:
+Pr_Absolut
+Out[101]:
+LnSales	LnPrice
+0	8.006368	4.765132
+1	8.113726	4.707727
+2	8.143227	4.707727
+3	8.196988	4.750396
+4	8.306472	4.750397
+5	8.434898	4.800839
+6	8.384576	4.844937
+7	8.406261	4.888373
+8	8.409163	4.928312
+9	8.442470	4.955827
+10	8.441607	5.000585
+11	8.486115	5.022234
+12	8.519790	5.022235
+In order to find the impact of Price on sales,let's build a regression model on the dataset. First let's plot some graphs to understand the data points
+
+In [108]:
+plt.scatter(Pr_Absolut['LnPrice'],Pr_Absolut['LnSales'])
+plt.xlabel('Log of Price')
+plt.ylabel('Log of Sales')
+plt.show()
+
+We can infer that price variation is almost linear in nature with sales.
+
+In [78]:
+import statsmodels.formula.api as sm
+In [109]:
+result = sm.ols(formula = 'LnSales ~ LnPrice',data = Pr_Absolut).fit()
+In [110]:
+result.summary()
+Out[110]:
+Dep. Variable:	LnSales	R-squared:	0.688
+Model:	OLS	Adj. R-squared:	0.660
+Method:	Least Squares	F-statistic:	24.26
+Date:	Sun, 04 Jun 2017	Prob (F-statistic):	0.000453
+Time:	14:19:16	Log-Likelihood:	13.282
+No. Observations:	13	AIC:	-22.56
+Df Residuals:	11	BIC:	-21.43
+Df Model:	1		
+Covariance Type:	nonrobust		
+coef	std err	t	P>|t|	[95.0% Conf. Int.]
+Intercept	2.8367	1.116	2.543	0.027	0.381 5.292
+LnPrice	1.1310	0.230	4.926	0.000	0.626 1.636
+Omnibus:	4.580	Durbin-Watson:	0.653
+Prob(Omnibus):	0.101	Jarque-Bera (JB):	1.653
+Skew:	-0.553	Prob(JB):	0.438
+Kurtosis:	4.352	Cond. No.	215.
+Here, the p-value of the price is zero that indicates that price is significant indicator of sales.
+Here, the value of R-squared is 0.688 i.e the price variable indicates nearly 69% of the data points. The co-efficient of price tells that for every unit increase in price, there is 1.13 times increase in sales.
+
+Let's add more variables to the regression and see what happens with the R-squared.
+
+Now let's try with the advertising and price column.
+In [112]:
+Ad_Absolut = Absolut[['LnSales','LnMag','LnNews','LnOut','LnBroad','LnPrint','LnPrice']]
+In [113]:
+result_ad = sm.ols('LnSales ~ LnMag + LnNews + LnOut + LnBroad + LnPrint + LnPrice',data=Ad_Absolut).fit()
+In [115]:
+result_ad.summary()
+Out[115]:
+Dep. Variable:	LnSales	R-squared:	0.933
+Model:	OLS	Adj. R-squared:	0.866
+Method:	Least Squares	F-statistic:	13.96
+Date:	Sun, 04 Jun 2017	Prob (F-statistic):	0.00270
+Time:	14:28:55	Log-Likelihood:	23.293
+No. Observations:	13	AIC:	-32.59
+Df Residuals:	6	BIC:	-28.63
+Df Model:	6		
+Covariance Type:	nonrobust		
+coef	std err	t	P>|t|	[95.0% Conf. Int.]
+Intercept	1.6613	1.697	0.979	0.365	-2.491 5.814
+LnMag	0.0891	0.062	1.438	0.200	-0.062 0.241
+LnNews	0.0131	0.012	1.132	0.301	-0.015 0.042
+LnOut	-0.1219	0.106	-1.152	0.293	-0.381 0.137
+LnBroad	0.0328	0.023	1.413	0.207	-0.024 0.090
+LnPrint	0.1101	0.081	1.366	0.221	-0.087 0.307
+LnPrice	1.0968	0.253	4.332	0.005	0.477 1.716
+Omnibus:	0.747	Durbin-Watson:	1.648
+Prob(Omnibus):	0.688	Jarque-Bera (JB):	0.610
+Skew:	0.043	Prob(JB):	0.737
+Kurtosis:	1.942	Cond. No.	1.83e+03
+The R-squared value has increased!.The model is able to explain 87% of the data points. But here the p-values of some variables are high which can be accounted due to interaction effect and some other factors.
+
+Let's try out the interation effect method between variables broad and print
+
+In [122]:
+result_inter = sm.ols('LnSales ~ LnMag + LnNews + LnOut + LnBroad * LnPrint + LnPrice',data=Ad_Absolut).fit()
+In [123]:
+result_inter.summary()
+Out[123]:
+Dep. Variable:	LnSales	R-squared:	0.972
+Model:	OLS	Adj. R-squared:	0.933
+Method:	Least Squares	F-statistic:	24.84
+Date:	Sun, 04 Jun 2017	Prob (F-statistic):	0.00135
+Time:	14:54:03	Log-Likelihood:	28.963
+No. Observations:	13	AIC:	-41.93
+Df Residuals:	5	BIC:	-37.41
+Df Model:	7		
+Covariance Type:	nonrobust		
+coef	std err	t	P>|t|	[95.0% Conf. Int.]
+Intercept	-8.2128	3.931	-2.089	0.091	-18.317 1.892
+LnMag	-0.0110	0.058	-0.190	0.857	-0.160 0.138
+LnNews	-0.0056	0.011	-0.515	0.628	-0.034 0.022
+LnOut	0.0426	0.097	0.437	0.680	-0.208 0.293
+LnBroad	1.6251	0.604	2.692	0.043	0.073 3.177
+LnPrint	1.2719	0.444	2.864	0.035	0.130 2.413
+LnBroad:LnPrint	-0.1586	0.060	-2.638	0.046	-0.313 -0.004
+LnPrice	0.6901	0.236	2.919	0.033	0.082 1.298
+Omnibus:	1.382	Durbin-Watson:	1.615
+Prob(Omnibus):	0.501	Jarque-Bera (JB):	0.165
+Skew:	-0.211	Prob(JB):	0.921
+Kurtosis:	3.355	Cond. No.	1.94e+04
+Boom! The results here are surprised. The presence of significant interaction indicates that the effect of one predictor variable on the response variable is different at different values of the other predictor variable. Therefore,the individial effects of the predictors also include the effects of the co-efficients of the interaction terms. The R-squared value has also increased indicating the model can explain most of the data points now.
